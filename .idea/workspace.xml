@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0245cd0-c78a-4de7-bee6-74c9d54b7414" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/teste02.php" afterPath="$PROJECT_DIR$/teste02.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/teste03.php" />
     </list>
     <ignored path="git.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="teste02.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="teste02.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/teste02.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teste03.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/teste03.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -54,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/teste01.php" />
         <option value="$PROJECT_DIR$/teste02.php" />
+        <option value="$PROJECT_DIR$/teste03.php" />
       </list>
     </option>
   </component>
@@ -183,12 +194,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1481648403401</updated>
-      <workItem from="1481648407060" duration="2711000" />
+      <workItem from="1481648407060" duration="2927000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2711000" />
+    <option name="totallyTimeSpent" value="2927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -224,6 +235,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/teste03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="69" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
           <folding />
         </state>
       </provider>
