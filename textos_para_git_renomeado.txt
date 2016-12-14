@@ -8,4 +8,38 @@ git push -u origin master
 git reset --mixed origin/master
 git add .
 git commit -m "This is a new commit for what I originally planned to be an amendmend"
-git push origin master 
+git push origin master
+
+commit e848f1b866ec48259d230a3b444ee5ff56e55cea
+Author: Ollyver Ottoboni <ollyver@pwi.com.br>
+Date:   Wed Dec 14 14:47:40 2016 -0200
+
+    Arquivo para simular a funcionalidade de desfazer commites
+
+commit 3205619eec7639b465072f95fe7f31fc4e2e1721
+Author: Ollyver Ottoboni <ollyver@pwi.com.br>
+Date:   Wed Dec 14 14:43:47 2016 -0200
+
+    Desfazendo alteracoes comitadas
+
+commit 519cd4c7f13b0c793f59e12a2fa8d4e7cb31a846
+Author: Ollyver Ottoboni <ollyver@pwi.com.br>
+Date:   Wed Dec 14 14:40:41 2016 -0200
+
+    Agora apageui o Diretorio
+
+commit 772454d423f7954f47aaf1dd751e791421a72282
+Author: Ollyver Ottoboni <ollyver@pwi.com.br>
+Date:   Wed Dec 14 14:38:11 2016 -0200
+
+    Apaquei tudo
+
+commit 14c3cc7f1f6cf70837545cc00544638ea5babc47
+Author: Ollyver Ottoboni <ollyver@pwi.com.br>
+Date:   Wed Dec 14 14:37:19 2016 -0200
+
+    Apaguei o diretorio idea
+
+commit c226008bb1c0fa83eeb1d6ae5d066dd6630b29e1
+Author: Ollyver Ottoboni <ollyver@pwi.com.br>
+Date:   Wed Dec 14 14:35:39 2016 -0200
