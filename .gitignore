@@ -1,1 +1,6 @@
-*.xml
+$ cat .gitignore
+    # exclude everything except directory foo/bar
+    /*
+    !/idea
+    /idea/*.xml
+    
