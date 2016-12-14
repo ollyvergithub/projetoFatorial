@@ -9,7 +9,3 @@ git reset --mixed origin/master
 git add .
 git commit -m "This is a new commit for what I originally planned to be an amendmend"
 git push origin master
-
-inclui esta linha no final do arquivo
-
-inclui esta outra linha no final do arquivo

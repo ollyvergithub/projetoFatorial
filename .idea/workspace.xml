@@ -45,8 +45,8 @@
       <file leaf-file-name="textos_para_git_renomeado.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/textos_para_git_renomeado.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+            <state relative-caret-position="180">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -63,6 +63,7 @@
         <option value="$PROJECT_DIR$/teste03.php" />
         <option value="$PROJECT_DIR$/teste01.php" />
         <option value="$PROJECT_DIR$/teste02.php" />
+        <option value="$PROJECT_DIR$/textos_para_git_renomeado.txt" />
       </list>
     </option>
   </component>
@@ -205,15 +206,15 @@
       <option name="presentableId" value="Default" />
       <updated>1481648403401</updated>
       <workItem from="1481648407060" duration="6191000" />
-      <workItem from="1481721071266" duration="3081000" />
+      <workItem from="1481721071266" duration="3687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9272000" />
+    <option name="totallyTimeSpent" value="9878000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="7" />
+    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33868894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -278,8 +279,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/textos_para_git_renomeado.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="79" selection-start-line="9" selection-start-column="79" selection-end-line="9" selection-end-column="79" />
+        <state relative-caret-position="180">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding />
         </state>
       </provider>
